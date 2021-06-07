@@ -1,6 +1,6 @@
-# sale_report
+# sale report
 
-A sale data report generator application with Django 3.1.
+## A sale data report generator application with Django 3.1.
 
 ---
 ## *Screenshots of the app*
